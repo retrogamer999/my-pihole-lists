@@ -1,0 +1,6 @@
+
+192.168.40.5	ph-mns1.passthru.co.uk
+192.168.40.6	proxy.passthru.co.uk
+192.168.40.7	ph-ns1.passthru.co.uk
+192.168.40.8	ph-ns2.passthru.co.uk
+
