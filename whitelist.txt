@@ -5,3 +5,4 @@ dartsearch.net
 clickserve.dartsearch.net
 ad.doubleclick.net
 mobile.pipe.aria.microsoft.com
+s.amazon-adsystem.com
