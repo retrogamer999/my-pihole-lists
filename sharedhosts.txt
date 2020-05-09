@@ -19,3 +19,13 @@
 
 192.168.40.20   ap01.passthru.co.uk		
 192.168.40.21   ap02.passthru.co.uk		
+
+
+
+
+
+
+
+
+192.168.40.30  white-december.passthru.co.uk
+192.168.40.31  rgb-october.passthru.co.uk
