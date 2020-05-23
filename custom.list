@@ -1,1 +1,11 @@
-
+192.168.40.5 proxy.passthru.co.uk
+192.168.40.7 ph-ns1.passthru.co.uk
+192.168.40.8 ph-ns2.passthru.co.uk
+192.168.40.1 gateway.passthru.co.uk
+192.168.40.2 cloudkey.passthru.co.uk
+192.168.40.10 sw01.passthru.co.uk
+192.168.40.11 sw02.passthru.co.uk
+192.168.40.21 ap02.passthru.co.uk
+192.168.40.20 ap01.passthru.co.uk
+192.168.40.30 white-december.passthru.co.uk
+192.168.40.31 rgb-october.passthru.co.uk
